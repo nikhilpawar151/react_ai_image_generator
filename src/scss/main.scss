@@ -1,0 +1,38 @@
+body{
+    background-color: #c2d3da;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mainBox{
+    margin: 3rem;
+    padding: 1rem;
+    width: 500px;
+    height: 520px;
+    background-color: #9ca7b1;
+    border-radius: 24px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.textQuery{
+    width: 300px;
+}
+
+.searchIcon{
+    background-color: #FFFFFF;
+    margin-left: 100px;
+}
+
+.imageItem{
+    width: 300px !important;
+    height: 300px !important;
+    padding: 24px;
+    border-radius: 10%;
+}
